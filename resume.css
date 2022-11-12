@@ -1,0 +1,41 @@
+body{
+padding: 0px;
+margin: auto;
+height: 100%;
+width: 100;
+font-family: arial;
+
+}
+
+#header{
+
+width:100%;
+height: auto;
+
+}
+#border{
+
+padding-left:20px;
+margin-left:100px;
+margin-right:100px;
+
+}
+#main{
+border-top:3px solid black;
+
+}
+#footer{
+
+}
+#header img{
+width: 200px;
+height: 200px;
+padding-left:43.5%;
+padding-top:50px;
+}
+#border #details{
+text-align: center;
+}
+#border #main #self{
+padding-left: 40px;
+}
